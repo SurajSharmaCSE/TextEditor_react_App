@@ -1,0 +1,8 @@
+component
+  1.Navarbar.js -done
+  2.textform.js - done
+  3. About.js
+  4. alert.js
+
+App.js - done
+ 
